@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Assembly>Test\Intro.dll</Assembly>
+		<AddInId>E05D950F-4B09-4730-A7A0-6F89B093327A</AddInId>
+		<FullClassName>Intro.ApplicationClass</FullClassName>
+		<Name>ПИК</Name>
+		<VendorId>PIK</VendorId>
+		<VendorDescription>PIK, http://pik.ru</VendorDescription>
+	</AddIn>	
+</RevitAddIns>
